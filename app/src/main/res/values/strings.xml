@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Formulario Básico: Lab1UI</string>
+    <string name="nuevo_contacto">Nuevo Contacto</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="fecha_nacimiento">Fecha Nacimiento:</string>
+    <string name="agregar">Agregar</string>
+    <string name="femenino">Femenino</string>
+    <string name="masculino">Masculino</string>
+    <string name="sexo">Sexo:</string>
+    <string name="pais">País</string>
+    <string name="telefono">Teléfono</string>
+    <string name="direccion">Dirección</string>
+    <string name="email">Correo Electronico</string>
+    <string name="hobbie">Hobbie:</string>
+    <string name="mostrar">Mostrar</string>
+    <string name="hobbieX">Pasa Tiempo:</string>
+    <string name="fechaNacimientoX">Fecha Nacimiento:</string>
+    <string name="favorito">Favorito</string>
+    <string name="informacion">Información Recolectada</string>
+
+    <string-array name="hobbies_array">
+        <item> -- </item>
+        <item>Jugar Videojuegos</item>
+        <item>Practicar Deportes</item>
+        <item>Escuchar Música</item>
+        <item>Ver Peliculas</item>
+        <item>Los Libros</item>
+        <item>Adicto a la Tecnología</item>
+        <item>Viajar</item>
+    </string-array>
+
+    <string-array name="latinoAmerica_array">
+        <item>Argentina</item>
+        <item>Bolivia</item>
+        <item>Chile</item>
+        <item>Colombia</item>
+        <item>Costa Rica</item>
+        <item>España</item>
+        <item>Cuba</item>
+        <item>Ecuador</item>
+        <item>El Salvador</item>
+        <item>Guatemala</item>
+        <item>Honduras</item>
+        <item>México</item>
+        <item>Nicaragua</item>
+        <item>Panamá</item>
+        <item>Paraguay</item>
+        <item>Perú</item>
+        <item>República Dominicana</item>
+        <item>Uruguay</item>
+        <item>Venezuela</item>
+    </string-array>
+
+    <string name="nombreObligatorio">El nombre es requerido!</string>
+    <string name="fechaNacimientoObligatoria">La fecha de nacimiento es requerida!</string>
+    <string name="paisObligatorio">El país es requerido!</string>
+    <string name="telefonoObligatorio">El numero de teléfono es requerido!</string>
+    <string name="emailObligatorio">El correo electronico es requerido!</string>
+
+</resources>

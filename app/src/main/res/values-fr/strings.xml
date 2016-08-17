@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Forme de Base: Lab1UI</string>
+    <string name="agregar">Ajouter</string>
+    <string name="apellido">Nom</string>
+    <string name="direccion">Adresse</string>
+    <string name="email">Mail</string>
+    <string name="emailObligatorio">Mail est requis!</string>
+    <string name="favorito">Préféré</string>
+    <string name="fechaNacimientoObligatoria">La date de naissance est requis!</string>
+    <string name="fechaNacimientoX">Date de Naissance:</string>
+    <string name="fecha_nacimiento">Date de naissance:</string>
+    <string name="femenino">Féminin</string>
+    <string name="hobbie">Loisirs</string>
+    <string name="hobbieX">loisirs</string>
+    <string name="informacion">Les informations collectées</string>
+    <string name="masculino">Masculin</string>
+    <string name="mostrar">Montrer</string>
+    <string name="nombre">Prénom</string>
+    <string name="nombreObligatorio">Le prénom est requis!</string>
+    <string name="nuevo_contacto">Nouveau contact</string>
+    <string name="pais">Pays</string>
+    <string name="paisObligatorio">Le pays est requis!</string>
+    <string name="sexo">Sexe:</string>
+    <string name="telefono">Téléphone</string>
+    <string name="telefonoObligatorio">Le numéro de téléphone est obligatoire!</string>
+    <string-array name="hobbies_array">
+        <item> -- </item>
+        <item>Jouer à un jeu vidéo</item>
+        <item>faire du sport</item>
+        <item>Écouter de la musique</item>
+        <item>Regarder des films</item>
+        <item>Livres</item>
+        <item>Accro à la technologie</item>
+        <item>Voyage</item>
+    </string-array>
+
+    <string-array name="latinoAmerica_array">
+        <item>Argentine</item>
+        <item>La Bolivie</item>
+        <item>Le Chili</item>
+        <item>La Colombie</item>
+        <item>Le Costa Rica</item>
+        <item>Cuba</item>
+        <item>Equateur</item>
+        <item>Le Sauveur</item>
+        <item>Espagne</item>
+        <item>Le Guatemala</item>
+        <item>Le Honduras</item>
+        <item>Le Mexique</item>
+        <item>Le Nicaragua</item>
+        <item>Le Panamá</item>
+        <item>Le Paraguay</item>
+        <item>Le Pérou</item>
+        <item>La République Dominicaine</item>
+        <item>Uruguay</item>
+        <item>Le Venezuela</item>
+    </string-array>
+</resources>

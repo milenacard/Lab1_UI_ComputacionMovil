@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Basic Form: Lab1UI</string>
+    <string name="nuevo_contacto">New Contact</string>
+    <string name="nombre">Name</string>
+    <string name="apellido">Last Name</string>
+    <string name="fecha_nacimiento">Birthdate:</string>
+    <string name="agregar">Add</string>
+    <string name="femenino">Female</string>
+    <string name="masculino">Masculine</string>
+    <string name="sexo">Sex:</string>
+    <string name="pais">Country</string>
+    <string name="telefono">Phone</string>
+    <string name="direccion">Address</string>
+    <string name="email">Email</string>
+    <string name="hobbie">Hobbie:</string>
+    <string name="mostrar">Show</string>
+    <string name="hobbieX">Hobbie:</string>
+    <string name="fechaNacimientoX">Birthdate:</string>
+    <string name="favorito">Favorite</string>
+    <string name="informacion">Collected information</string>
+
+    <string-array name="hobbies_array">
+        <item> -- </item>
+        <item>Play Video Game</item>
+        <item>practice sports</item>
+        <item>Listen to Music</item>
+        <item>Watch Movies</item>
+        <item>Books</item>
+        <item>Addicted to technology</item>
+        <item>Travel</item>
+    </string-array>
+
+    <string-array name="latinoAmerica_array">
+        <item>Argentina</item>
+        <item>Bolivia</item>
+        <item>Chile</item>
+        <item>Colombia</item>
+        <item>Costa Rica</item>
+        <item>Cuba</item>
+        <item>Ecuador</item>
+        <item>El Salvador</item>
+        <item>España</item>
+        <item>Guatemala</item>
+        <item>Honduras</item>
+        <item>México</item>
+        <item>Nicaragua</item>
+        <item>Panamá</item>
+        <item>Paraguay</item>
+        <item>Perú</item>
+        <item>República Dominicana</item>
+        <item>Uruguay</item>
+        <item>Venezuela</item>
+    </string-array>
+
+    <string name="nombreObligatorio">The name is required!</string>
+    <string name="fechaNacimientoObligatoria">The birthdate is required!</string>
+    <string name="paisObligatorio">The country is required!</string>
+    <string name="telefonoObligatorio">The phone number is required!</string>
+    <string name="emailObligatorio">Email is required!</string>
+
+</resources>
